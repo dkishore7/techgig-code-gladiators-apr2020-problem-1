@@ -39,8 +39,13 @@ Output Format Print the required output in a separate line.
 
 Sample TestCase 1 
 Input 
+
 4 
+
 2 5 6 3 
+
 20 40 90 50 
 
-Output 8
+Output 
+
+8
